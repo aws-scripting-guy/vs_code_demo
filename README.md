@@ -6,6 +6,6 @@ recording url: [https://channel9.msdn.com/Events/Czech-Devs/Visual-Studio-Code-P
 
  - `vs_code_demo.ps1` includes reference commands for enabling VS Code  git integration
  
- - `infra_as_code`includes examples of various infrastructure as code templates.  
+ - `infra_as_code` includes examples of various infrastructure as code templates.  
  
- - `./assets`- includes slides used
+ - `./assets` includes slides used
